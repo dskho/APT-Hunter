@@ -1,3 +1,7 @@
+kx_chinese menu
+https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247485683&idx=1&sn=a631764bdc3246fdec0563c4f43767d5
+
+
 # APT-Hunter
 APT-Hunter is Threat Hunting tool for windows event logs which made by purple team mindset to provide detect APT movements hidden in the sea of windows event logs to decrease the time to uncover suspicious activity . this tool will make a good use of the windows event logs collected and make sure to not miss critical events configured to be detected. If you are a Threat Hunter , Incident Responder or forensic investigator , i assure you will enjoy using this tool , why ? i will discuss the reason in this article and how it will make your life easy just it made mine . Kindly note this tool is heavily tested but still a beta version and may contain bugs .
 
